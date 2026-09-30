@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Osmar Ediel Armenta Medina \[23212178]; l23212178"tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 

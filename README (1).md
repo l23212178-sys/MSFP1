@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Osmar Ediel Armenta Medina \[23212178]; l23212178@tectijuana.edu.mx
 
@@ -37,7 +37,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 En esta práctica se presenta un circuito RLC de segundo orden, el sistema es estable con una respuesta sobreamortiguada, un error en estado estacionario de 0.5 V y un transitorio que depende directamente de los valores elegidos para el conjunto de resistencias R y la capacitancia del capacitor C de la segunda malla.
 
-Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Circuito RLC; Controlador PI; Diseño de controlador; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 

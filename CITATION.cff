@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Practica 1: Diseño de controlador para un sistema de
+  segundo orden
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Osmar Ediel '
+    family-names: Armenta Medina
+    email: l23212178@tectijuana.edu.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/l23212178-sys/MSFP1'
+keywords:
+  - Circuito RLC
+  - Controlador PI
+  - Diseño de controlador
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-29'
